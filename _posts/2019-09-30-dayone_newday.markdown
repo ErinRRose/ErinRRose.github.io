@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "dayone newday"
-date:       2019-10-01 01:12:09 +0000
+date:       2019-09-30 21:12:10 -0400
 permalink:  dayone_newday
 ---
 
